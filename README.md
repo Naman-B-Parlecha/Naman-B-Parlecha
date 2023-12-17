@@ -1,6 +1,6 @@
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=Naman-Parlecha&icon=5&color=8)](https://visitcount.itsvg.in)
 
-🔭 I'm currently working on MellowWave.<br>🌱 I'm currently learning Flutter & DSA.<br>🤝 I'm looking for help with new tech and projects.<br>💬 Ask me about anything.
+🔭 I'm currently working on few web development related projects.<br>🌱 I'm currently learning Web Dev & DSA.<br>🤝 I'm looking for help with new tech and projects.<br>💬 Ask me about anything.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 

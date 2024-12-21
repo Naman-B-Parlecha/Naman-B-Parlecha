@@ -7,12 +7,11 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Naman-Parlecha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-parlecha)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/namanparlecha)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Naman)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23299042/naman)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NamanParlecha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://naman-parlecha.vercel.app/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/North-Secretary-5301/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://naman-parlecha.vercel.app/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
